@@ -1,6 +1,8 @@
 Olá, eu sou o Wesley Monteiro 
 
 - 🌱Análise e Desenvolvimento de Sistemas
+- E NÃO SEI FECHAR O GITHUB NO PC DA FACULDADE
+- 
 <div>
   <a href="https://github.com/Wesleysou">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wesleysou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
