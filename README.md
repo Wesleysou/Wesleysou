@@ -15,8 +15,7 @@ Olá, eu sou o Wesley Monteiro
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Wesley-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align = "center" alt = "Rafa-Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/AdorableHandmadeGelada-size_restricted.gif">
+  <img align = "center" alt = "Rafa-Python" height = "30" width = "40" src = "https://c.tenor.com/vekBPhjxoroAAAAd/spider-man-intothe-spider-verse-miles-morales.gif">
 
 </div>
   
